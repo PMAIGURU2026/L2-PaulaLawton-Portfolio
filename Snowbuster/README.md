@@ -25,4 +25,4 @@ no fast way to find help. Snow Busters fixes that.
 
 ## Team
 Built with teammates Mis Blue and Annette and Josue Villalona
-as part of the Pursuit AI Fellowship L1 Hackathon.
+as part of the Pursuit AI Fellowship Hackathon.
