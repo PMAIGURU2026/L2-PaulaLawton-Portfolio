@@ -4,12 +4,15 @@
 ### Date: February 14, 2026
 
 ## What It Does
-An AI-powered text-to-speech accessibility tool that converts 
-written content into audio for improved accessibility improving the purchase ads space. Advertising Ux-Ui Upgrade.
+A Speechify clone that transforms passive audio listening into
+active learning. AI generates comprehension quizzes every 5 minutes
+during playback, tracks your answers, and shows your retention
+score over time on a personal dashboard.
 
 ## Why We Built It
-Not everyone can access written content easily. 
-Speechify improves the userability of the ad space business model experience to make the interaction more fluid and easy. 
+Audio learners retain only 20% of content they passively hear.
+With active recall (quizzes), retention jumps to 80%.
+Learning Companion Mode bridges that gap.
 
 ## Frontend Stack
 - React.js v18+
