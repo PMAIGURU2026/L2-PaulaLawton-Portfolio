@@ -10,13 +10,13 @@
 
 | Project | Description |
 |---|---|
-| 🛡️ SVAT | AI-powered safety and vulnerability assessment tool |
-| 🎙️ Speechify | Text-to-speech accessibility tool |
+| 🛡️ SVAT | Site Viability Assessment Tool | Hydrogen Green Energy and Emerging Tech|
+| 🎙️ Speechify | Learning and Reading for Information Retention, UPGRADE| 
 | 💰 Savings Depot | Personal finance and savings tracker |
-| 🎮 TheRecRoom | Community recreation and resource platform |
-| 🏘️ Craigslist Project | Housing equity and listings analysis tool |
-| 🗽 NYC Gang Violence | Resource mapping for gang violence prevention |
-| ❄️ Snow Busters | Weather-based community service app (Hackathon) |
+| 🎮 TheRecRoom | Professional & Workforce Development tool|
+| 🏘️ Craigslist Project | UX-UI UPGRADE for Business Model-Advertising|
+| 🗽 NYC Gang Violence | Resource mapping for gang violence prevention|
+| ❄️ Snow Busters |2 user experiences Gig worker (snowbuster/removal) Booker needing snow removal | (Hackathon)|
 
 ---
 
