@@ -33,7 +33,7 @@ I build AI tools that solve real problems for real people.
 I bring 12+ years of nonprofit leadership, federal program
 management, and community development into tech — which means
 I don't just build features, I build things that actually
-work for communities.
+work for business, communities, and the people we work with and thise we serve. 
 
 **What I bring to every project:**
 - 🎨 UX/UI Design — logo design, brand identity, animations,
